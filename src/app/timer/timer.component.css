@@ -1,0 +1,27 @@
+:host {
+  display: block;
+  text-align: center;
+}
+
+div~div {
+  margin-top: 7px;
+}
+
+.timeLeft {
+  font-size: 4rem;
+}
+
+button~button {
+    margin: 7px;
+}
+
+.phase0 {
+  color: blue;
+}
+.phase1{
+  color:coral;
+}
+.phase2{
+  color:rgb(10, 175, 65);
+  
+}

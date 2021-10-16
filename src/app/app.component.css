@@ -1,0 +1,10 @@
+:host {
+  display: inline-block;
+  border: 2px solid gray;
+  padding: 17px ;
+  border-radius:100px;
+}
+
+.right{
+    text-align: end center; 
+}
